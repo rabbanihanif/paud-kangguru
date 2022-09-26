@@ -1,0 +1,10 @@
+---
+
+Detail login
+Login Admin
+email : admin@gmail.com
+pass  : admin
+
+--
+
+
